@@ -29,19 +29,17 @@ Work Type and Discipline Analysis: Included planning accuracy analysis by work t
 Top 10 Work Orders: Created a view of the top 10 work orders with the highest percentage difference between planned and actual hours.
 
 Getting Started
-Clone the Repository:
-bash
-Copy code
-git clone https://github.com/yourusername/planned-vs-actual-kpi.git
-Open Power BI:
+- Clone the Repository
+- Open Power BI:
 Load the data model and follow the setup instructions in the repository to configure calculated columns and measures.
-Customize:
+- Customize:
 Adjust tolerance levels and visualizations based on your specific needs.
-Contributing
+  
+Contributing  
 Contributions are welcome. Please open an issue or submit a pull request for suggestions or improvements.
 
-License
+License  
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+Acknowledgements  
 Developed to enhance planning accuracy analysis in various operational contexts.
