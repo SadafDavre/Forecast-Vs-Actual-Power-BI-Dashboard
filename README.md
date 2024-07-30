@@ -38,8 +38,5 @@ Adjust tolerance levels and visualizations based on your specific needs.
 Contributing  
 Contributions are welcome. Please open an issue or submit a pull request for suggestions or improvements.
 
-License  
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Acknowledgements  
 Developed to enhance planning accuracy analysis in various operational contexts.
